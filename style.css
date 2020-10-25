@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    background-color: white;
+    display: grid;
+    margin: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+.main {
+    background-color: white;
+}
+.btn {
+    height: 30px;
+    width: 130px;
+    background-color: #F2F2F2;
+    padding: 0px;
+    border: transparent;    
+}
+.footer {
+    background-color:#F2F2F2;
+}
